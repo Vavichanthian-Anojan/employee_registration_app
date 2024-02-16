@@ -1,0 +1,36 @@
+<div class="container mt-5 mb-5">
+  <mat-card class="example-card text-center">
+    <mat-card-header class="justify-content-center">
+      <div mat-card-avatar class="example-header-image"></div>
+      <mat-card-title
+        >{{ employeeDetails.firstName }}
+        {{ employeeDetails.lastName }}</mat-card-title
+      >
+      <mat-card-subtitle>{{ employeeDetails.email }}</mat-card-subtitle>
+    </mat-card-header>
+
+    <mat-card-content>
+      <mat-list>
+        <mat-list-item>
+          <div matLine>
+            Mobile Number :
+            <button mat-button>{{ employeeDetails.mobile }}</button>
+          </div>
+        </mat-list-item>
+
+        <mat-list-item>
+          <div matLine>
+            Gender :
+            <button mat-button>{{ employeeDetails.gender }}</button>
+          </div>
+        </mat-list-item>
+        <mat-list-item>
+          <div matLine>
+            join Date :
+            <button mat-button>{{ employeeDetails.joinDate | date }}</button>
+          </div>
+        </mat-list-item>
+      </mat-list>
+    </mat-card-content>
+  </mat-card>
+</div>

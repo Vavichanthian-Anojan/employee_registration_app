@@ -1,0 +1,76 @@
+{
+  "registered": [
+    {
+      "firstName": "Anojan",
+      "lastName": "Vavichanthiran",
+      "email": "chandrananojan@gmail.com",
+      "mobile": 775236207,
+      "gender": "Male",
+      "joinDate": "2024-01-31T18:30:00.000Z",
+      "id": "1"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "mobile": 1234567890,
+      "gender": "Male",
+      "joinDate": "2023-05-15T12:00:00.000Z",
+      "id": "2"
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Smith",
+      "email": "emilysmith@example.com",
+      "mobile": 9876543210,
+      "gender": "Female",
+      "joinDate": "2022-11-20T09:45:00.000Z",
+      "id": "3"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "mobile": 5551234567,
+      "gender": "Female",
+      "joinDate": "2023-08-10T15:20:00.000Z",
+      "id": "4"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "mbrown@example.com",
+      "mobile": 5559876543,
+      "gender": "Male",
+      "joinDate": "2024-02-01T10:10:00.000Z",
+      "id": "5"
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Garcia",
+      "email": "sophiag@example.com",
+      "mobile": 5552223333,
+      "gender": "Female",
+      "joinDate": "2023-04-05T14:30:00.000Z",
+      "id": "6"
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Martinez",
+      "email": "daniel.martinez@example.com",
+      "mobile": 5554445555,
+      "gender": "Male",
+      "joinDate": "2023-12-18T08:00:00.000Z",
+      "id": "7"
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Anderson",
+      "email": "emma.anderson@example.com",
+      "mobile": 5556667777,
+      "gender": "Female",
+      "joinDate": "2022-07-25T11:45:00.000Z",
+      "id": "8"
+    }
+  ]
+}
